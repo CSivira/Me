@@ -26,7 +26,7 @@ class Navbar extends React.Component
 					<div style={{display: 'flex'}}>
 						<NavbarButton value='ABOUT'/>
 						<NavbarButton value='CONTACT'/>
-						<NavbarButton value='CV / RESUMÈ'/>
+						<NavbarButton value='CV / RÈSUMÈ'/>
 					</div>
 				</div>
 			</div>
