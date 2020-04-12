@@ -7,8 +7,6 @@ class App extends React.Component
 {
 	render()
 	{
-		const bg = require('./images/background.jpg');		
-
 		return (
 			<div className='main_image'>
 				<Navbar/>

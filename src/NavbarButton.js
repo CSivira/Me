@@ -3,11 +3,6 @@ import style from './NavbarButton.css';
 
 class NavbarButton extends React.Component
 {
-	constructor(props)
-	{
-		super(props)
-	}
-	
 	render()
 	{
 		return (

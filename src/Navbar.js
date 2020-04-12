@@ -21,7 +21,7 @@ class Navbar extends React.Component
 			<div>
 				<div className="navbar">
 					<div>
-						<img style={style} src={logo}/>		
+						<img style={style} src={logo} alt='Logo'/>		
 					</div>
 					<div style={{display: 'flex'}}>
 						<NavbarButton value='ABOUT'/>
