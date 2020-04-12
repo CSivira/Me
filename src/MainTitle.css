@@ -1,0 +1,38 @@
+.container
+{
+	padding-top: 450px;
+	justify-content: center;
+}
+
+.text
+{
+	color: gray;
+	text-align: center;
+}
+
+.name
+{
+	margin-top: -2px;
+	padding-left: 140px;
+	font-size: 20px;
+}
+
+.lastname
+{
+	margin-top: -10px;
+	margin-left: 5px;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.line
+{
+	width: 300px;
+	border: orange solid 1px;
+}
+
+.title
+{
+	margin-bottom: -10px;
+	font-size: 30px;
+}

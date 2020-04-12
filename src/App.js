@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 import Navbar from './Navbar';
+import MainTitle from './MainTitle';
 
 class App extends React.Component
 {
@@ -10,6 +11,7 @@ class App extends React.Component
 		return (
 			<div className='main_image'>
 				<Navbar/>
+				<MainTitle/>
 			</div>
 		);
 	}
