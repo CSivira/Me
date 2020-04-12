@@ -10,6 +10,7 @@ class App extends React.Component
 		return (
 			<div className='main_image'>
 				<Navbar/>
+				<p> Hola </p>
 			</div>
 		);
 	}
