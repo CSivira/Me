@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Me/static/css/main.f7095f36.chunk.css",
+    "main.js": "/Me/static/js/main.848422ec.chunk.js",
+    "main.js.map": "/Me/static/js/main.848422ec.chunk.js.map",
+    "runtime-main.js": "/Me/static/js/runtime-main.9bb4458f.js",
+    "runtime-main.js.map": "/Me/static/js/runtime-main.9bb4458f.js.map",
+    "static/js/2.c31feea1.chunk.js": "/Me/static/js/2.c31feea1.chunk.js",
+    "static/js/2.c31feea1.chunk.js.map": "/Me/static/js/2.c31feea1.chunk.js.map",
+    "index.html": "/Me/index.html",
+    "precache-manifest.8a076b1fdd2d4e4add21009f1cd970fc.js": "/Me/precache-manifest.8a076b1fdd2d4e4add21009f1cd970fc.js",
+    "service-worker.js": "/Me/service-worker.js",
+    "static/css/main.f7095f36.chunk.css.map": "/Me/static/css/main.f7095f36.chunk.css.map",
+    "static/js/2.c31feea1.chunk.js.LICENSE.txt": "/Me/static/js/2.c31feea1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Me/static/media/moon-1527501_1920.d7ab5dbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb4458f.js",
+    "static/js/2.c31feea1.chunk.js",
+    "static/css/main.f7095f36.chunk.css",
+    "static/js/main.848422ec.chunk.js"
+  ]
+}
