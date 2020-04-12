@@ -19,7 +19,7 @@ class Navbar extends React.Component
 
 		return (
 			<div>
-				<div className="navbar">
+				<div className='navbar'>
 					<div>
 						<img style={style} src={logo} alt='Logo'/>		
 					</div>

@@ -1,6 +1,7 @@
 .button
 {
 	padding: 10px 5px;
+	transition: all 0.3s;
 }
 
 .button:hover
