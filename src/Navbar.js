@@ -18,16 +18,14 @@ class Navbar extends React.Component
 		}
 
 		return (
-			<div>
-				<div className='navbar'>
-					<div>
-						<img style={style} src={logo} alt='Logo'/>		
-					</div>
-					<div style={{display: 'flex'}}>
-						<NavbarButton value='ABOUT'/>
-						<NavbarButton value='CONTACT'/>
-						<NavbarButton value='CV / RÈSUMÈ'/>
-					</div>
+			<div className='navbar'>
+				<div>
+					<img style={style} src={logo} alt='Logo'/>		
+				</div>
+				<div style={{display: 'flex'}}>
+					<NavbarButton value='ABOUT'/>
+					<NavbarButton value='CONTACT'/>
+					<NavbarButton value='CV / RÈSUMÈ'/>
 				</div>
 			</div>
 		);
